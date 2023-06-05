@@ -6,10 +6,7 @@
   I am a software engineer from Bogotá, Colombia, who is always seeking new ways to expand my knowledge in general. I studied Systems Engineering at Pontificia Universidad Javeriana in my hometown. Currently, I'm a <b>backend engineer</b> and aspire to delve into the field of <b>data science</b>. In addition to my passion for programming, I have a keen interest in graphic design, gaming, streaming, and playing the guitar.
 </p> 
 
-<details>
-<summary>
 <h2>Tech stack 💻</h2>
-</summary>
 
 <h3>My Personal stack</h3>
 
@@ -26,12 +23,3 @@
 <h3>Currently learning</h3>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</details>
-
-<details>
-<summary>
-<h2>My stats 🎖</h2>
-</summary>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=D4-Ramirez&theme=dark&show_icons=true&hide_border=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4-Ramirez&theme=dark&hide_border=true&line_height=27&width=20)
-
