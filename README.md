@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, I'm D4 (David Ramírez) 👋</b></h1>
+<h1 align="center"><b>Hola, I'm David 👋</b></h1>
 
 <h2>About me 🌴</h2>
 
